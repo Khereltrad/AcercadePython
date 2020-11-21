@@ -1,0 +1,256 @@
+*{
+  display: inline-block;
+  /* outline: 1px dashed red; */
+}
+body{
+  width: 970px;
+  height: 970px;
+  margin: 0% auto;
+  display: inline-block;
+  font-family: sans-serif;
+  background-color: #245076;
+  text-align-last: center;
+}
+#bprim{
+  display: inline-block;
+  height: 135px;
+  width: 970px;
+  margin-right: 0px;
+}
+#logo{
+  height: 101px;
+  width: 340px;
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-right: 19px;
+}
+li,ul{
+  display: inline-block;
+  vertical-align: top;
+  height: 16px;
+  width: 48px;
+  text-align: center;
+}
+#listandbox{
+  display: inline-block;
+  height: 120px;
+  width: 591px;
+  vertical-align: top;
+}
+#minul{
+  height: 14px;
+  width: 590px;
+  margin-top: 7px;
+  margin-bottom: 2px;
+  padding: 1px;
+  color: white;
+  font-size: medium;
+}
+#su,#sd,#st,#sc{
+  padding-right: 1px;
+  padding-left: 1px;
+}
+#su{
+  margin-left: 365px;
+}
+#sd,#sc{
+  color:#c9ac00;
+  text-decoration-line: underline;
+  text-decoration-color: #c9ac00;
+}
+#minbus{
+  height: 60px;
+    width: 269px;
+    background-color: #444444;
+    margin-left: 288px;
+    border-radius: 15px;
+    box-shadow: 6px 6px 4px -4px rgba(0,0,0,0.98);
+    display: inline-block;  
+}
+#minbus input{
+  vertical-align: middle;
+  margin-top: 13px;
+  margin-left: 41px;
+  height: 30px;
+  width: 140px;
+  border-style: solid;
+  border-color: grey;
+  text-align: center;
+  color: lightgray;
+}
+#minbus label{
+  vertical-align: middle;
+  margin: 13px 0px 0px 5px;
+  height: 22px;
+  width: 37px;
+  text-align: center;
+  background-color: #245076 ;
+  color: white;
+  padding: 5px 0px 0px 0px;
+  border-radius: 5px;
+  border-style: outset;
+  border-color: #c0c0c0;
+}
+#bsec{
+  height: 467px;
+  width: 870px;
+  display: inline-block;
+  margin: 0px 0px 0px 72px;
+}
+#bbar{
+  height: 24px;
+  width: 860px;
+  background-color: #437cad;
+  border-radius: 7px;
+  box-shadow: 2px 5px 5px 2px rgba(0,0,0,0.75);
+  text-align: center;
+  color: white;
+  font-size: 24px;
+  padding: 20px 0px 20px 0px;
+}
+button{
+  color: white;
+  font-size: 24px;
+  background-color: #437cad;
+  box-shadow: unset;
+  border: unset;
+  margin: 0px 10px 0px 10px;
+}
+#bizq{
+height: 282px;
+width: 200px;
+background-color: #245076;
+display: inline-block;
+margin: 40px 0px 0px 0px;
+}
+#bizq p{
+display: block;
+color: white;
+font-size: 16px;
+text-align: center;
+text-decoration: underline;
+margin: 1px;
+}
+#bizq span{
+  font-size: 13px;
+  color: #c9ac00;
+  text-align: center;
+  margin: 0px 4px 4px 0px;
+  text-align: center;
+}
+#bsup{
+  margin: 22px 0px 0px 22px;
+  vertical-align: top;
+  display: inline-block;
+  height: 85px;
+  width: 576px;
+  color: white;
+  text-align: center;
+  font-size: 13px;
+  line-height: 0px;
+  padding: 5px 0px 5px 0px;
+}
+#bsup p{
+  height: 9px;
+  margin: 4px;
+}
+#bcen{
+  height: 147px;
+  width: 281px;
+  display: inline-block;
+  color: #c9ac00;
+  font-style: italic;
+  text-align: center;
+  font-size: 17px;
+  background-color: #245076;
+  margin: -175px 207px 0px 150px;
+  float: right;
+}
+#bcen p{
+  margin: 5px;
+}
+#zen{
+  height: 37px;
+  width: 128px;
+  margin: 11px 0px 0px 175px;
+  background-color: #245076;
+  text-align: center;
+  font-size: 15px;
+  color: white;
+}
+#zen p{
+  margin: 2px;
+}
+#bter{
+  background-color: #ffffff;
+  height: 260px;
+  width: 970px;
+  display: inline-block;
+  vertical-align: middle;  
+}
+.btwin{
+  display: inline-block;
+    vertical-align: inherit;
+    margin: 7px 0px 7px 24px;
+    width: 335px;
+    height: 254px;
+    padding: 5px 25px 5px 25px;
+    border: groove;
+    border-color: #73a7d5;
+    border-style: groove none none none;
+    text-align: center;
+}
+.btwin p,h5,li,ul{
+  display: block;
+  margin: 4px 0px 0px 0px;
+}
+/* #twinl{
+  margin-left: 135px;
+} */
+.btwin p,li{
+  font-size: 14px;
+  }
+.btwin p{
+  padding: 6px;
+  height: 77px;
+  text-align: center;
+  margin: -70px;
+}
+.btwin h5{
+  font-size: 20px;
+  margin-bottom: 70px;
+}
+.btwin li,ul{
+height: 15px;
+width: 275px;
+margin: 8px 0px 0px 0px;
+}
+.btwin li{
+  list-style-type: square;
+  display: list-item;
+  color: #73a7d5;
+  font-size: 12px;
+  margin: 2px;
+}
+.btwin span{
+  color: #73a7d5;
+  font-size: 11px;
+}
+#pieb{
+  inline-size: -webkit-fill-available;
+  height: 30px;
+}
+#pieb button{
+  background-color: #245076;
+  font-size: 16px;
+  font-family: inherit;
+  color: #437cad;
+}
+#pief p{
+  font-size: small;
+  color: #437cad;
+}
+#pief{
+  padding: 50px 50px 15px 50px;
+  width: 869px;
+}
